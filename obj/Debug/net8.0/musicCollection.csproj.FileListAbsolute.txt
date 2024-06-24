@@ -30,3 +30,4 @@
 /Users/bigmac/Documents/musicCollection/obj/Debug/net8.0/musicCollection.pdb
 /Users/bigmac/Documents/musicCollection/obj/Debug/net8.0/musicCollection.genruntimeconfig.cache
 /Users/bigmac/Documents/musicCollection/obj/Debug/net8.0/ref/musicCollection.dll
+/Users/bigmac/Documents/musicCollection/obj/Debug/net8.0/musicCollection.sourcelink.json
