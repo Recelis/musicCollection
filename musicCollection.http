@@ -4,3 +4,5 @@ GET {{musicCollection_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+GET {{musicCollection_HostAddress}}/pizza/
+Accept: application/json
